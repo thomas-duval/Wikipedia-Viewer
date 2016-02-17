@@ -1,1 +1,3 @@
-console.log('\'Allo \'Allo!'); // eslint-disable-line no-console
+$( "#search" ).click(function() {
+  $( ".jumbotron" ).css('display', 'block');
+});
