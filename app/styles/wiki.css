@@ -1,6 +1,10 @@
 .input-group {
     padding: 50px;
 }
-.result {
-    display: none;
+#jumbotron {
+    text-align: left;
+    background: antiquewhite;
+}
+body {
+    background: midnightblue;
 }
